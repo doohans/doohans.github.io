@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Jenkins Gitlab Webhook"
 tags:
   - Gitlab
