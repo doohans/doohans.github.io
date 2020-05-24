@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "구형 라즈베리파이 Motion 적용하기"
 tags:
   - 라즈베리파이
