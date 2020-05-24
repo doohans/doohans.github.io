@@ -79,7 +79,7 @@ footer:
 comments:
   provider               : "disqus"
   disqus:
-    shortname            : doohans-github-io # Short-name 
+    shortname            : "doohans-github-io" # Short-name 
 
 analytics:
   provider: "google"
