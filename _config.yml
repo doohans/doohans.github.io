@@ -69,20 +69,24 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
    
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus: doohans-github-io
-
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-132816067-1
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-  
+ 
+comments:
+  provider               : "disqus"
+  disqus:
+    shortname            : doohans-github-io # Short-name 
 
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "UA-132816067-1"
+    anonymize_ip: false # true, false (default)
+    
 defaults:
   # _posts
   - scope:
