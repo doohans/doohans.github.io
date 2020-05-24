@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Arduino SoftwareSerial on ArduinoMEGA2560"
 tags: [arduino, mega, softwareserial]
 comments: true
