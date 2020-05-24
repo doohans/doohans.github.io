@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Asus c302 Chromebook"
 tags: [chromebook,c302]
 comments: true
