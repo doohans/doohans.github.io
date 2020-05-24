@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "SG90 서보 수리"
 tags: [SG90,Servo, 서보]
 comments: true
