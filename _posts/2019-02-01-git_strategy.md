@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "대규모 프로젝트에서의 Git 구성 전략"
 tags: [git]
 comments: true
