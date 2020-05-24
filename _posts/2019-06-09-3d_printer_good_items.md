@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "마음에 들었던 3D프린터 출력물들"
 tags: [3dprinter]
 comments: true
