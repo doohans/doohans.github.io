@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "3D printer, cura 설정 정보 "
 tags: [3dprinter,cura]
 comments: true
