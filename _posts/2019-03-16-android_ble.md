@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Android Bluetooth Low Energy 샘플 동작 불가"
 tags: [android,ble, bluetooth]
 comments: true
