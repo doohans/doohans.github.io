@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Appimage 파일에 관해"
 tags: [appimage,packaging]
 comments: true
