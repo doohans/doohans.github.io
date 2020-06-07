@@ -42,7 +42,7 @@ EPA나 EXPO 기능도 추가하고 전체적인 컨셉을 자동차에 적합하
 
 https://github.com/doohans/arduino_surface_TX_4ch
 
-<이슈나 버그리포트 환영합니다.>
+이슈나 버그리포트 환영합니다.
 
 
 # 동작화면샘플
