@@ -1,6 +1,6 @@
 ---
-title: "diy arduino 4ch rc transmitter. surfTX"
-tags: [아두이노,diy,rc,tx,surftx]
+title: "diy arduino ac auto spot welding machine"
+tags: [아두이노,diy,spot]
 comments: true
 published : true
 ---
@@ -80,6 +80,8 @@ LCD는 집에 있는게 1602 뿐이라 1602 대응으로 수정하였고,
 
 {% include youtubeplayer.html id="fnji2yeavow" %}
 
+.
+.
   
 ![](https://cafefiles.pstatic.net/MjAyMDA2MTNfMTc0/MDAxNTkyMDI2MTcyMzI4.G7Hc_axfFNBofdmc2OmyYD-1gvshBann7KMQDUfsioog.QwR-50xBCTZWw7uDkUHsvC0fdDjURxHRSIJO9SeXBqwg.JPEG/20200607_203849.jpg)
 
