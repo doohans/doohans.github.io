@@ -15,10 +15,11 @@ published : true
 삽질인것을 알면서도 저것으로 작은 크기로 만들어 보고 싶더군요.
 
 처음 만들어보는거라 시행착오도 많았네요.
-
   
 
-![](https://cafefiles.pstatic.net/MjAyMDA2MTNfMjMw/MDAxNTkyMDI2MTY5OTE4.uvebnNM1c03bFwZu_oB_0texy2J4P1K7Ru9hUZ_A_Xwg.lSKxOvsu58AWEpt_Rhuv81N5kH_yTdzgtaFmFauY65Yg.JPEG/20200526_233826_HDR.jpg)
+
+![1](https://user-images.githubusercontent.com/19382541/84616469-04e57580-af07-11ea-9d41-bc2bf2666763.jpg)
+
 
 카페 정보를 이용하여 25sq 용접선 피복 벗기고 수축튜브 쒸우고 감았습니다.
 
@@ -29,12 +30,11 @@ published : true
 wd40 뿌리면서 고무망치로 치고 밀며 당기며 땀흘리고 있으니 와이프가 뭐하냐는 눈빛으로 바라보네요..
 
   
+![2](https://user-images.githubusercontent.com/19382541/84616471-04e57580-af07-11ea-86d7-5fd962c0cba1.jpg)
 
-![](https://cafefiles.pstatic.net/MjAyMDA2MTNfNDEg/MDAxNTkyMDI2MTcwODkx.aN4tN59tpb9QRdeNh3jIdIX1tnjqJYoSkhup7lOuVHIg.Y2TYS7RwrEW5ijgTXdnSW1JVZqnOiY2D07FYQGpfj3Mg.JPEG/20200526_234425.jpg)
 
-  
+![3](https://user-images.githubusercontent.com/19382541/84616473-057e0c00-af07-11ea-8c38-2ca8bff2b353.jpg)
 
-![](https://cafefiles.pstatic.net/MjAyMDA2MTNfOTcg/MDAxNTkyMDI2MTcxNjA5.dv03fH7ruClI8biYl_9vPCykGYSqkMSFK0g2s42sVYkg.JIgxPwmvYsiRjH7HYZLaL2voQCHyLKj6VTgTd4m61wQg.JPEG/20200604_232745.jpg)
 
 가조립 해봅니다.
 
@@ -83,7 +83,9 @@ LCD는 집에 있는게 1602 뿐이라 1602 대응으로 수정하였고,
 .
 .
   
-![](https://cafefiles.pstatic.net/MjAyMDA2MTNfMTc0/MDAxNTkyMDI2MTcyMzI4.G7Hc_axfFNBofdmc2OmyYD-1gvshBann7KMQDUfsioog.QwR-50xBCTZWw7uDkUHsvC0fdDjURxHRSIJO9SeXBqwg.JPEG/20200607_203849.jpg)
+
+![4](https://user-images.githubusercontent.com/19382541/84616475-0616a280-af07-11ea-8f43-dc84115d5b75.jpg)
+
 
 케이스가 가장 고민되는데
 
@@ -100,23 +102,14 @@ LCD는 집에 있는게 1602 뿐이라 1602 대응으로 수정하였고,
 
 미니 재봉틀 발판스위치가 있는데 이녀석이 3.5파이 스테레오 단자라 재활용합니다.
 
-![](https://cafefiles.pstatic.net/MjAyMDA2MTRfMjYz/MDAxNTkyMTI4NTUyNzI1.lUnp9gE6WMV-W940UqHj35J4W1rbGtIDHLiGaLpRaFsg.ILJrO_zsJyX772TroZzrFdj1jiaX9eJH576E-GLFiTQg.JPEG/20200614_185022_HDR.jpg)  
-
   
-
+![5](https://user-images.githubusercontent.com/19382541/84616461-02831b80-af07-11ea-8773-a7f74368e846.jpg)
   
+![6](https://user-images.githubusercontent.com/19382541/84616464-03b44880-af07-11ea-896c-0a0ad23fe743.jpg)
 
-  
+![7](https://user-images.githubusercontent.com/19382541/84616467-044cdf00-af07-11ea-9c8b-ad52fafb7d79.jpg)
 
-![](https://cafefiles.pstatic.net/MjAyMDA2MTNfMTMx/MDAxNTkyMDI2MTcyODg2.D8UXx75VvOYQDsnNk9sEdfKmpcGe6NqtTgh87meSR0Ig.TDJIgYdLQ54YZTbi8SY1ro0OGzGEq-Jxktf1jFUR4V4g.JPEG/20200607_204251.jpg)
-
-  
-
-  
-
-  
-
-![](https://cafefiles.pstatic.net/MjAyMDA2MTNfMTc5/MDAxNTkyMDI2MTczNDAw.Gkj_9GHhgEEnNcOVa57loNrk95h0GwTsUNZAye8X5Ikg.RGYapxzsLXZ6QfTRr5tyTs31ReX98P4KWNVOW3D4doEg.JPEG/20200607_215622_HDR.jpg)
+ 
 
   
 
@@ -128,12 +121,8 @@ LCD는 집에 있는게 1602 뿐이라 1602 대응으로 수정하였고,
 
 그냥 까페 분양하시는 잘 연마된 얇은 교체용 동봉을 구매할걸 하는 후회가..ㅠㅠ
 
-  
 
-  
-
-![](https://cafefiles.pstatic.net/MjAyMDA2MTNfMjY0/MDAxNTkyMDI2MjM4MTE4.Ccj7Py6RmrafOGCTBvgc8SzwvG_3nEJgMlxrOlKo9fsg.a57Xmsq0ZkX751-0vWitN9JzkZDPQX6dAdkefGuPQI8g.JPEG/20200612_222609.jpg)
-
+![8](https://user-images.githubusercontent.com/19382541/84616468-044cdf00-af07-11ea-828d-326eabb72f87.jpg)
   
 
 적당한 철판이 없어서 다 쓴 알카라인 건전지(`리튬아닙니다. 리튬배터리에 하시면 안됩니다.`) 옆구리에 연습해보았습니다.
