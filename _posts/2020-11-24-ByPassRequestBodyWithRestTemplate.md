@@ -14,3 +14,9 @@ ResponseEntity<Resource> exchange = restTemplate.exchange(uri, mehtod, reuqestEn
 logger.info("{} : {} ms", uri, System.currentTimeMillis()-start);
 ```
 
+```
+HttpComponentsClientHttpRequestFactory factory = new HttpComponentsClientHttpRequestFactory(HttpClientBuilder.create().build());
+factory.set~~~
+factory.setBufferRequestBody(false);
+resttemplate = new RestTemplate(factory);
+```
